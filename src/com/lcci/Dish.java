@@ -1,6 +1,6 @@
 package com.lcci;
 
-// some good stuff eh
+// not some good stuff eh
 
 public class Dish {
 	private final String name;
