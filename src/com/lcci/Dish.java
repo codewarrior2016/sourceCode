@@ -22,7 +22,7 @@ public class Dish {
 	
 	@Override
 	public String toString() {
-		return "Dish is [name=" + name + ", vegetarian=" + vegetarian
+		return "Dish was [name=" + name + ", vegetarian=" + vegetarian
 				+ ", calories=" + calories + ", type=" + type + "]";
 	}
  

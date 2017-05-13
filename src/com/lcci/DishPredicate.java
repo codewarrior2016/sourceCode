@@ -1,6 +1,9 @@
 
 package com.lcci;
 
+// good Code
+//
+//
 @FunctionalInterface
 public interface DishPredicate {
 	public Boolean test(Dish d);
