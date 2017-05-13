@@ -1,5 +1,7 @@
 package com.lcci;
 
+// some good stuff
+
 public class Dish {
 	private final String name;
 	private final boolean vegetarian;
